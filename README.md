@@ -19,9 +19,9 @@ Here’s how the form looks:
 ![Job Application Form Screenshot](form.png)
 
 ## 🌐 Live Demo
-[Click here to view the form](https://Saniya-coder2006.github.io/job-application-form/)
+[Click here to view the form](https://Saniya-coder2006.github.io/Job_form/)
 
 ## 📌 How to Run Locally
 1. Clone this repository:
    ```bash
- git clone https://github.com/Saniya-coder2006/git/ 
+ git clone https://github.com/Saniya-coder2006/Job_form.git
